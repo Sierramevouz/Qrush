@@ -144,6 +144,27 @@ DAG 子图提取（graph mining）
 重复 pattern 聚类
 自动 ILP 或 Qiskit 方式验证是否等价
 
+## ✨ 当前结果
+🧠 当前运行结果总结（基于 qft3.qasm，使用 ibmq_tokyo_7 拓扑）：
+✅ 1. 原始 Qiskit 调度基线
+Qiskit depth (level=0): 87
+
+Qiskit depth (level=3): 80
+
+这是 Qiskit 的两个默认调度器的深度，分别对应无优化（0）和最大优化（3）的编译结果。
+
+🔁 2. Qrash 优化结果（Rewrite + ILP Scheduling）
+共计生成 134 个有效重写变体（均验证等价 ✅）
+
+最佳重写变体为 Variant 79：
+
+调度深度：73
+
+是否重写：是（Rewritten = True）
+
+估计 SWAP 成本：64.0（非相邻 CX 门数估算）
+
+
 
 🤖 阶段 4：强化学习驱动的 rewrite 路径搜索（RL）
 | 替代现有的 BFS + Beam，变成策略网络选择“下一步rewrite变体” |：

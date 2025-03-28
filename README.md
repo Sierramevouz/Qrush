@@ -170,6 +170,11 @@ Qiskit depth (level=3): 80
 
 估计 SWAP 成本：64.0（非相邻 CX 门数估算）
 
+基于ghz3 使用全链接拓扑
+Qiskit (opt_level=0): 112
+    Qiskit (opt_level=3): 109
+    Qrush (rewrite + ILP): 102 ✅
+    相比 Qiskit Level 3：减少了 7 层调度深度（约 6.4%）
 
 
 

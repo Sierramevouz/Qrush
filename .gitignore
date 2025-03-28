@@ -1,0 +1,53 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Unit test / coverage reports
+.coverage
+.tox/
+.nox/
+.pytest_cache/
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+
+# Qiskit cache
+.cache/
+*.qasm~
+
+# Results
+results/*.png
+results/*.csv
+
+# Jupyter Notebooks
+*.ipynb
+.ipynb_checkpoints/
+
+# Mac / Linux system
+.DS_Store

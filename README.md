@@ -1,5 +1,5 @@
 
-# 🔧 QRASH: Quantum Rewrite And Scheduling with Hardware awareness
+# 🔧 Quantum Rewrite and Unified Scheduling Heuristics
 
 A modular framework for **quantum circuit rewrite + ILP-based scheduling**, equipped with beam search, unitary equivalence verification, swap cost modeling, and hardware-aware optimization.
 

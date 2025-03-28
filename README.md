@@ -5,7 +5,7 @@ A modular framework for **quantum circuit rewrite + ILP-based scheduling**, equi
 
 ## 🚀 Overview
 
-QRASH is a research-oriented toolkit for **automated optimization of quantum circuits**. It supports:
+QRUSH is a research-oriented toolkit for **automated optimization of quantum circuits**. It supports:
 
 - ✅ Multi-step circuit rewrite with beam search
 - ✅ ILP scheduling under **hardware topology constraints**

@@ -144,6 +144,12 @@ DAG 子图提取（graph mining）
 重复 pattern 聚类
 自动 ILP 或 Qiskit 方式验证是否等价
 
+🤖 阶段 4：强化学习驱动的 rewrite 路径搜索（RL）
+| 替代现有的 BFS + Beam，变成策略网络选择“下一步rewrite变体” |：
+将 rewrite graph 编码为图结构
+用 GNN / Transformer 预测变体评分
+RL policy 网络：当前状态 → 下一变体选择
+
 ## ✨ 当前结果
 🧠 当前运行结果总结（基于 qft3.qasm，使用 ibmq_tokyo_7 拓扑）：
 ✅ 1. 原始 Qiskit 调度基线
@@ -166,9 +172,4 @@ Qiskit depth (level=3): 80
 
 
 
-🤖 阶段 4：强化学习驱动的 rewrite 路径搜索（RL）
-| 替代现有的 BFS + Beam，变成策略网络选择“下一步rewrite变体” |：
-将 rewrite graph 编码为图结构
-用 GNN / Transformer 预测变体评分
-RL policy 网络：当前状态 → 下一变体选择
 

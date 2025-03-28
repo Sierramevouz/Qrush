@@ -7,7 +7,7 @@ from config import MAX_REWRITE_DEPTH, BEAM_WIDTH, ENABLE_EQUIVALENCE_CHECK
 from core.topology import AVAILABLE_TOPOLOGIES, build_coupling_graph, compute_distance_matrix
 from qiskit import QuantumCircuit, transpile
 
-def run_pipeline(qasm_path, coupling_name):
+def run_pipeline(qasm_path, coupling_name, use_parallel=True):
     print("🔁 Loading circuit:", qasm_path)
     gates, num_qubits = load_qasm_file_as_gate_list(qasm_path)
 
@@ -41,7 +41,8 @@ def run_pipeline(qasm_path, coupling_name):
     print(f"\n🔍 Running rewrite variant analysis (depth={MAX_REWRITE_DEPTH}, beam={BEAM_WIDTH})...")
     result = analyze_variants(gates, num_qubits, csv_path=report_csv_path,
                               coupling_graph=coupling_graph,
-                              distance_matrix=distance_matrix)
+                              distance_matrix=distance_matrix,
+                              use_parallel=use_parallel)
 
     if result is None:
         print("❌ No valid equivalent rewrite variant found.")
@@ -69,6 +70,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--qasm", type=str, required=True, help="Path to .qasm file")
     parser.add_argument("--coupling", type=str, default="ibmq_tokyo_7", help="Hardware topology")
+    parser.add_argument("--no-parallel", action="store_true", help="Disable multiprocessing")
     args = parser.parse_args()
 
-    run_pipeline(args.qasm, args.coupling)
+    run_pipeline(args.qasm, args.coupling, use_parallel=not args.no_parallel)

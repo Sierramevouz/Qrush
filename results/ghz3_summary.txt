@@ -1,0 +1,26 @@
+================= GHZ3 Benchmark Report =================
+🗓️ Timestamp: 2025-03-28 17:42:41
+
+📁 Circuit: circuits/ghz3.qasm
+🔗 Topology: fully_connected (42 edges)
+⚙️ Rewrite Depth: 3
+⚙️ Beam Width: 5
+
+🔍 Variant Analysis:
+    Total Variants: 68
+    Valid Equiv Variants: 56
+    Best Variant ID: 29
+    Rewritten: Yes
+
+📏 Schedule Depth Comparison:
+    Qiskit (opt_level=0): 112
+    Qiskit (opt_level=3): 109
+    Qrush (rewrite + ILP): 102 ✅
+    相比 Qiskit Level 3：减少了 7 层调度深度（约 6.4%）
+
+
+
+🔀 Estimated SWAP Cost: 0 (fully connected)
+🧪 Verified Unitary Equivalence: ✅ Passed
+⏱️ Total Runtime: 514.43 seconds (~8.6 minutes)
+========================================================

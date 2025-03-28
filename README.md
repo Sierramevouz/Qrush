@@ -1,11 +1,11 @@
 
-# 🔧 QRANE: Quantum Rewrite And Scheduling Engine
+# 🔧 QRASH: Quantum Rewrite And Scheduling with Hardware awareness
 
 A modular framework for **quantum circuit rewrite + ILP-based scheduling**, equipped with beam search, unitary equivalence verification, swap cost modeling, and hardware-aware optimization.
 
 ## 🚀 Overview
 
-QRANE is a research-oriented toolkit for **automated optimization of quantum circuits**. It supports:
+QRASH is a research-oriented toolkit for **automated optimization of quantum circuits**. It supports:
 
 - ✅ Multi-step circuit rewrite with beam search
 - ✅ ILP scheduling under **hardware topology constraints**
@@ -129,3 +129,25 @@ python3 main.py --qasm circuits/qft3.qasm --mode beam --coupling ibmq_tokyo_7
 ---
 
 ## ✨ Vision
+接下来工作：
+引入符号 rewrite（Symbolic rewrite）
+要支持：
+gate pattern 含参数
+合并参数（theta 合并规则）
+rewrite rules 用符号而不是完全匹配定义
+
+
+🧠 阶段 3：自动挖掘 rewrite rule（基于样例电路）
+| 方法 | 从多个 QASM 电路中找重复模式 → 验证是否等价 → 自动加入规则库 |
+通过：
+DAG 子图提取（graph mining）
+重复 pattern 聚类
+自动 ILP 或 Qiskit 方式验证是否等价
+
+
+🤖 阶段 4：强化学习驱动的 rewrite 路径搜索（RL）
+| 替代现有的 BFS + Beam，变成策略网络选择“下一步rewrite变体” |：
+将 rewrite graph 编码为图结构
+用 GNN / Transformer 预测变体评分
+RL policy 网络：当前状态 → 下一变体选择
+

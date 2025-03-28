@@ -1,6 +1,3 @@
-当然可以，以下是一个详细的 `README.md` 草稿，涵盖了我们目前项目中实现的全部功能、模块结构、使用方法、以及后续开发计划。你可以将它直接保存为 GitHub 项目的根目录下的 `README.md` 文件。
-
----
 
 # 🔧 QRANE: Quantum Rewrite And Scheduling Engine
 

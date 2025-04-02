@@ -115,3 +115,27 @@ def analyze_variants(gates, num_qubits,
     print(f"\n⏱️  Total time: {time.time() - start_time:.2f} seconds")
 
     return best_result
+
+def evaluate_gate_list(gates, num_qubits=5, coupling_graph=None, distance_matrix=None):
+    """
+    用于 RewriteEnv 中的 reward 计算：
+    给定 gate list，调度它并计算 depth 和 swap_cost。
+    """
+    sched, depth = schedule_ilp(
+        gates, num_qubits,
+        coupling_graph=coupling_graph,
+        distance_matrix=distance_matrix
+    )
+    if sched is None:
+        return {
+            'depth': 999,
+            'swap_count': 999,
+            'gate_count': len(gates)
+        }
+
+    swap_cost = estimate_swap_cost(gates, coupling_graph) if coupling_graph else 0
+    return {
+        'depth': depth,
+        'swap_count': swap_cost,
+        'gate_count': len(gates)
+    }

@@ -23,3 +23,25 @@ def generate_variants(gates):
 def is_rewritten(original, variant):
     """判断是否经过了 rewrite（即是否发生了 gate 数量变化或顺序变化）"""
     return original != variant
+# === 生成所有长度为 1~3 的门序列（pattern），用于候选重写规则挖掘 ===
+def all_gate_patterns(max_len=3):
+    from itertools import product
+
+    gate_set = ["h", "cx", "swap", "t", "tdg", "rz"]
+    patterns = []
+
+    for length in range(1, max_len + 1):
+        for seq in product(gate_set, repeat=length):
+            pattern = []
+            for gate in seq:
+                if gate == "h":
+                    pattern.append({"name": "h", "qubits": [0]})
+                elif gate == "cx":
+                    pattern.append({"name": "cx", "qubits": [0, 1]})
+                elif gate == "swap":
+                    pattern.append({"name": "swap", "qubits": [0, 1]})
+                elif gate in {"t", "tdg", "rz"}:
+                    pattern.append({"name": gate, "qubits": [0]})
+            patterns.append(pattern)
+
+    return patterns

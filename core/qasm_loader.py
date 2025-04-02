@@ -6,7 +6,7 @@ def from_qiskit_to_gate_list(qc: QuantumCircuit):
         name = inst.name
         qubits = [q._index for q in qargs]
         if name in {"h", "cx", "t", "tdg", "rz"}:
-            gate_list.append((name, qubits))
+            gate_list.append({"name": name, "qubits": qubits})  # ✅ 返回字典格式
     return gate_list, qc.num_qubits
 
 

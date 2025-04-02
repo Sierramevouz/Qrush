@@ -1,6 +1,7 @@
 import cvxpy as cp
 import numpy as np
-from core.topology import build_coupling_graph, compute_distance_matrix
+from topology import build_coupling_graph, compute_distance_matrix
+
 
 def safe(val):
     if val is None:

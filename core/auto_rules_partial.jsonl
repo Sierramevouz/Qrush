@@ -1,0 +1,13 @@
+{"lhs": [{"name": "h", "qubits": [1]}], "rhs": [{"name": "cx", "qubits": [3, 0]}], "depth_reduction": 0}
+
+{"lhs": [{"name": "h", "qubits": [0]}, {"name": "h", "qubits": [0]}],
+ "rhs": [],
+ "depth_reduction": 1}
+
+{"lhs": [{"name": "cx", "qubits": [1, 2]}, {"name": "cx", "qubits": [1, 2]}],
+ "rhs": [],
+ "depth_reduction": 1}
+
+{"lhs": [{"name": "h", "qubits": [1]}, {"name": "cx", "qubits": [1, 2]}],
+ "rhs": [{"name": "cx", "qubits": [1, 2]}, {"name": "h", "qubits": [1]}],
+ "depth_reduction": 0}

@@ -181,4 +181,144 @@ Qrush (rewrite + ILP): 102 ✅
 相比 Qiskit Level 3：减少了 7 层调度深度（约 6.4%）
 
 
+4.2日更新：
 
+
+---
+
+# 🔧 Qrush: Quantum Rewrite and Unified Scheduling Heuristics
+
+A modular research framework for quantum circuit optimization — combining multi-step **rewrite search**, **ILP-based scheduling**, **hardware-aware constraints**, and **RL + GNN-based learning**.
+
+---
+
+## 🚀 Overview
+
+**Qrush** provides an end-to-end toolkit to optimize quantum circuits via:
+
+- ✅ Multi-step circuit rewrite via BFS or Beam Search
+- ✅ ILP scheduling with hardware topology constraints
+- ✅ Swap cost minimization & Gantt visualization
+- ✅ Reinforcement Learning agent for rewrite path optimization
+- ✅ GNN-based discriminator to guide rewrite quality
+- ✅ Equivalence verification (unitary-level)
+
+---
+
+## 🧱 Project Structure
+
+```
+quantum_rewriter_project/
+├── circuits/                 # QASM benchmark circuits
+├── core/                    # Main modules
+│   ├── rl_agent.py              # ✅ RL agent baseline (random + GNN score)
+│   ├── rl_env.py                # ✅ RewriteEnv supporting position + rule actions
+│   ├── q_agent.py               # ✅ [WIP] Tabular Q-Learning agent
+│   ├── rl_discriminator.py      # ✅ GNN score_rule() interface
+│   ├── ilp_scheduler.py         # ILP scheduler with swap/topology
+│   ├── rewrite_graph.py         # Multi-step BFS/Beam rewrite
+│   ├── rewrite_rules.py         # Rewrite rules & apply functions
+│   ├── equivalence.py           # Qiskit-based unitary check
+│   ├── gantt_plot.py            # Gantt visualization
+│   └── variant_analysis.py      # Variant sweep + scheduling
+├── gnn_discriminator/       # GNN rule quality discriminator
+│   ├── gnn_discriminator.py     # GCN-based encoder
+│   ├── train_gnn.py             # Train loop for GNN
+│   ├── data_utils.py            # Convert gate list to graph
+│   ├── auto_rules_test.jsonl    # Test data
+├── results/                 # ILP + RL + variant reports
+├── config.py                # Global config (topology, beam size, etc.)
+└── main.py                  # Entry point (mode: beam/full/test)
+```
+
+---
+
+## ⚙️ Features Implemented
+
+### ✅ Circuit Input & Rewrite
+
+- Load `.qasm` and parse gates
+- Rewrite rules: H-H, CX-CX-CX → SWAP, etc.
+- Beam Search for rewrite graph traversal
+- Configurable beam width & max depth
+
+### ✅ ILP Scheduling
+
+- Qubit conflict constraints
+- Min-depth objective
+- Hardware-aware SWAP penalty
+- Coupling maps: `fully_connected`, `ibmq_tokyo_7`, `grid_3x3`
+
+### ✅ Evaluation
+
+- Gantt chart generation
+- Unitary check via Qiskit
+- Swap cost estimation (distance-based)
+- CSV summary of variant depth & cost
+
+---
+
+## 🧠 Learning-Enhanced Rewrite
+
+### ✅ RL Agent
+
+- `RandomAgent` baseline (for validation)
+- `QAgent` with tabular Q-learning (WIP)
+- Connected to `RewriteEnv` with position + rule action space
+
+### ✅ GNN Discriminator
+
+- Trained on `auto_rules_test.jsonl`
+- Evaluates `(lhs, rhs)` rewrite rule pair for quality
+- Connected via `score_rule(lhs, rhs)` interface
+
+> ✨ Used to provide reward signals or filter rules in RL loop.
+
+---
+
+## 🧪 Example Command
+
+```bash
+python3 main.py --qasm circuits/qft3.qasm --mode beam --coupling ibmq_tokyo_7
+```
+
+| Flag        | Description                                 |
+|-------------|---------------------------------------------|
+| `--qasm`    | QASM path                                   |
+| `--mode`    | `beam` / `full`                             |
+| `--coupling`| Hardware topology (from `config.py`)        |
+
+---
+
+## 📊 Result Snapshot
+
+### QFT-3 (IBM Tokyo Topology)
+
+| Version | Depth | SWAP Cost | Rewritten | Verified |
+|---------|-------|-----------|-----------|----------|
+| Qiskit (opt 0) | 87    | -         | ❌        | ✅       |
+| Qiskit (opt 3) | 80    | -         | ❌        | ✅       |
+| **Qrush**         | **73**  | **64.0**    | ✅         | ✅       |
+
+---
+
+## 🔭 Roadmap
+
+| Phase | Focus |
+|-------|-------|
+| 🧩 Rule Mining | Auto discover frequent subgraph rules |
+| 🌀 Parametric Rewrite | Generalize parameterized gates |
+| 🤖 RL-Guided Rewrite | Replace BFS with learned agent |
+| 🧠 GNN Score + Game | Score-based multi-agent rewrite |
+| 📚 Benchmark Suite | Add QESO, Quarl baselines |
+
+---
+
+## ✨ Vision
+
+- Integrate symbolic pattern matching (e.g. Z3)
+- Merge θ-param rules: `RZ(θ1) + RZ(θ2) → RZ(θ1+θ2)`
+- Use GNNs to predict rule quality & optimize rewrite path
+- Construct a *game* between `RewriteAgent` and `DiscriminatorAgent`
+
+---

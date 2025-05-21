@@ -1,0 +1,2228 @@
+{
+  "reward_trace": [
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0
+  ],
+  "traces": [
+    [
+      {
+        "pos": 160,
+        "rule": "rule_012",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 203,
+        "rule": "rule_000",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 187,
+        "rule": "rule_022",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 11,
+        "rule": "rule_025",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 89,
+        "rule": "rule_011",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 217,
+        "rule": "rule_006",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 205,
+        "rule": "rule_021",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 176,
+        "rule": "cxcx_cancel",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 255,
+        "rule": "rule_016",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 41,
+        "rule": "rule_003",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 572,
+        "rule": "rule_014",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 73,
+        "rule": "rule_000",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 746,
+        "rule": "rule_015",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 737,
+        "rule": "rule_023",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 4,
+        "rule": "rule_005",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 842,
+        "rule": "rule_025",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 436,
+        "rule": "rule_012",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 493,
+        "rule": "rule_021",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 359,
+        "rule": "rule_014",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 173,
+        "rule": "rule_009",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 170,
+        "rule": "rule_005",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 448,
+        "rule": "rule_000",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 274,
+        "rule": "rule_018",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 329,
+        "rule": "rule_002",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 160,
+        "rule": "rule_022",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 326,
+        "rule": "rule_021",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 369,
+        "rule": "rule_013",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 77,
+        "rule": "rule_012",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 208,
+        "rule": "rule_006",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 28,
+        "rule": "rule_006",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 35,
+        "rule": "rule_016",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 34,
+        "rule": "rule_023",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 126,
+        "rule": "rule_021",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 33,
+        "rule": "rule_001",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 39,
+        "rule": "rule_015",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 61,
+        "rule": "rule_001",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 70,
+        "rule": "rule_010",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 136,
+        "rule": "rule_011",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 149,
+        "rule": "rule_023",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 137,
+        "rule": "rule_003",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 497,
+        "rule": "rule_004",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 773,
+        "rule": "rule_024",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 345,
+        "rule": "rule_021",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 247,
+        "rule": "rule_000",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 602,
+        "rule": "rule_020",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 866,
+        "rule": "rule_012",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 760,
+        "rule": "rule_020",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 219,
+        "rule": "rule_009",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 116,
+        "rule": "rule_017",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 117,
+        "rule": "rule_027",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 4,
+        "rule": "rule_015",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 192,
+        "rule": "rule_015",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 118,
+        "rule": "rule_014",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 120,
+        "rule": "rule_016",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 181,
+        "rule": "rule_019",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 8,
+        "rule": "rule_024",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 429,
+        "rule": "rule_009",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 69,
+        "rule": "hh_cancel",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 325,
+        "rule": "rule_012",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 107,
+        "rule": "rule_002",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 472,
+        "rule": "rule_021",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 715,
+        "rule": "rule_016",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 726,
+        "rule": "rule_019",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 355,
+        "rule": "rule_002",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 474,
+        "rule": "hh_cancel",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 107,
+        "rule": "rule_029",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 752,
+        "rule": "rule_007",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 646,
+        "rule": "rule_006",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 305,
+        "rule": "rule_010",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 492,
+        "rule": "rule_019",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 116,
+        "rule": "rule_012",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 645,
+        "rule": "rule_012",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 332,
+        "rule": "rule_015",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 54,
+        "rule": "cxcx_cancel",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 431,
+        "rule": "rule_001",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 542,
+        "rule": "rule_000",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 71,
+        "rule": "cxcx_cancel",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 575,
+        "rule": "cxcx_cancel",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 163,
+        "rule": "rule_009",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 649,
+        "rule": "rule_025",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 32,
+        "rule": "rule_000",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 382,
+        "rule": "cxcx_cancel",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 104,
+        "rule": "rule_029",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 317,
+        "rule": "rule_028",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 346,
+        "rule": "rule_010",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 171,
+        "rule": "hh_cancel",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 152,
+        "rule": "rule_002",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 178,
+        "rule": "rule_003",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 139,
+        "rule": "rule_001",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 57,
+        "rule": "rule_024",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 14,
+        "rule": "hh_cancel",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 91,
+        "rule": "rule_006",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 77,
+        "rule": "rule_017",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 8,
+        "rule": "rule_017",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 104,
+        "rule": "rule_015",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 66,
+        "rule": "rule_027",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 85,
+        "rule": "rule_023",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 110,
+        "rule": "rule_011",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 33,
+        "rule": "rule_001",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 60,
+        "rule": "rule_025",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 198,
+        "rule": "rule_001",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 499,
+        "rule": "rule_004",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 616,
+        "rule": "hh_cancel",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 147,
+        "rule": "rule_024",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 638,
+        "rule": "swap_decompose",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 234,
+        "rule": "rule_023",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 254,
+        "rule": "rule_025",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 378,
+        "rule": "rule_019",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 910,
+        "rule": "rule_020",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 670,
+        "rule": "rule_011",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 65,
+        "rule": "rule_027",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 103,
+        "rule": "cxcx_cancel",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 123,
+        "rule": "rule_025",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 130,
+        "rule": "rule_012",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 127,
+        "rule": "rule_024",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 42,
+        "rule": "rule_018",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 82,
+        "rule": "rule_017",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 54,
+        "rule": "rule_021",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 11,
+        "rule": "swap_decompose",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 111,
+        "rule": "rule_004",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 424,
+        "rule": "rule_008",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 233,
+        "rule": "rule_010",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 242,
+        "rule": "rule_009",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 362,
+        "rule": "rule_013",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 27,
+        "rule": "rule_029",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 420,
+        "rule": "rule_015",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 194,
+        "rule": "rule_013",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 220,
+        "rule": "rule_026",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 384,
+        "rule": "rule_029",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 220,
+        "rule": "rule_024",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 11,
+        "rule": "rule_013",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 25,
+        "rule": "rule_025",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 24,
+        "rule": "rule_023",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 42,
+        "rule": "cxcx_cancel",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 7,
+        "rule": "rule_020",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 37,
+        "rule": "rule_005",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 12,
+        "rule": "rule_012",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 2,
+        "rule": "rule_006",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 19,
+        "rule": "rule_018",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 7,
+        "rule": "rule_023",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 387,
+        "rule": "rule_014",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 125,
+        "rule": "rule_023",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 258,
+        "rule": "rule_012",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 368,
+        "rule": "rule_013",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 280,
+        "rule": "rule_001",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 304,
+        "rule": "rule_007",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 17,
+        "rule": "rule_025",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 12,
+        "rule": "rule_026",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 391,
+        "rule": "rule_007",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 41,
+        "rule": "rule_000",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 34,
+        "rule": "rule_000",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 131,
+        "rule": "rule_024",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 229,
+        "rule": "rule_019",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 252,
+        "rule": "swap_decompose",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 233,
+        "rule": "rule_019",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 69,
+        "rule": "rule_014",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 395,
+        "rule": "hh_cancel",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 239,
+        "rule": "rule_013",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 99,
+        "rule": "rule_005",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 82,
+        "rule": "rule_028",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 48,
+        "rule": "rule_025",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 165,
+        "rule": "rule_010",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 164,
+        "rule": "rule_003",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 238,
+        "rule": "rule_027",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 136,
+        "rule": "rule_008",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 40,
+        "rule": "rule_008",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 16,
+        "rule": "rule_006",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 183,
+        "rule": "rule_011",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 89,
+        "rule": "rule_027",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 22,
+        "rule": "rule_026",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 960,
+        "rule": "rule_006",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 528,
+        "rule": "rule_012",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 1261,
+        "rule": "rule_014",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 1188,
+        "rule": "rule_001",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 813,
+        "rule": "rule_026",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 370,
+        "rule": "rule_029",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 1163,
+        "rule": "rule_007",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 141,
+        "rule": "rule_028",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 537,
+        "rule": "rule_026",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 713,
+        "rule": "rule_020",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 11865,
+        "rule": "rule_008",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 11780,
+        "rule": "rule_007",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 462,
+        "rule": "rule_002",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 845,
+        "rule": "rule_009",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 3607,
+        "rule": "rule_025",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 4995,
+        "rule": "rule_012",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 5739,
+        "rule": "rule_015",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 6047,
+        "rule": "rule_029",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 1237,
+        "rule": "cxcx_cancel",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 5652,
+        "rule": "rule_009",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 4,
+        "rule": "rule_017",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 35,
+        "rule": "rule_020",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 7,
+        "rule": "rule_006",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 31,
+        "rule": "rule_027",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 52,
+        "rule": "cxcx_cancel",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 47,
+        "rule": "rule_005",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 38,
+        "rule": "rule_015",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 24,
+        "rule": "rule_029",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 10,
+        "rule": "rule_025",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 26,
+        "rule": "swap_decompose",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 128,
+        "rule": "rule_019",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 135,
+        "rule": "rule_001",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 296,
+        "rule": "rule_029",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 1036,
+        "rule": "hh_cancel",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 3272,
+        "rule": "rule_028",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 1394,
+        "rule": "rule_024",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 1427,
+        "rule": "rule_003",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 637,
+        "rule": "rule_020",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 671,
+        "rule": "rule_015",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 1703,
+        "rule": "rule_027",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 66,
+        "rule": "rule_002",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 49,
+        "rule": "rule_019",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 125,
+        "rule": "rule_019",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 184,
+        "rule": "rule_021",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 15,
+        "rule": "rule_014",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 178,
+        "rule": "rule_024",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 158,
+        "rule": "rule_020",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 75,
+        "rule": "rule_002",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 169,
+        "rule": "rule_027",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 143,
+        "rule": "rule_014",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 42,
+        "rule": "rule_019",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 212,
+        "rule": "rule_026",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 89,
+        "rule": "rule_010",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 78,
+        "rule": "rule_020",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 58,
+        "rule": "swap_decompose",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 134,
+        "rule": "rule_010",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 25,
+        "rule": "rule_002",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 159,
+        "rule": "rule_026",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 198,
+        "rule": "rule_005",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 221,
+        "rule": "rule_000",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 47,
+        "rule": "rule_026",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 57,
+        "rule": "rule_002",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 188,
+        "rule": "rule_021",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 112,
+        "rule": "hh_cancel",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 188,
+        "rule": "rule_004",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 145,
+        "rule": "rule_011",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 211,
+        "rule": "rule_021",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 96,
+        "rule": "rule_020",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 200,
+        "rule": "rule_023",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 170,
+        "rule": "rule_002",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 3962,
+        "rule": "rule_007",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 2540,
+        "rule": "rule_023",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 3308,
+        "rule": "rule_011",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 1335,
+        "rule": "rule_025",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 777,
+        "rule": "rule_017",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 37,
+        "rule": "rule_020",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 603,
+        "rule": "rule_026",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 2259,
+        "rule": "rule_017",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 1272,
+        "rule": "rule_010",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 618,
+        "rule": "rule_029",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 19,
+        "rule": "rule_018",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 117,
+        "rule": "rule_027",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 75,
+        "rule": "rule_006",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 5,
+        "rule": "rule_024",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 144,
+        "rule": "rule_023",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 101,
+        "rule": "rule_019",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 163,
+        "rule": "rule_018",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 105,
+        "rule": "rule_021",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 15,
+        "rule": "rule_009",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 51,
+        "rule": "rule_002",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 533,
+        "rule": "rule_003",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 535,
+        "rule": "rule_022",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 564,
+        "rule": "rule_015",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 609,
+        "rule": "rule_025",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 9,
+        "rule": "rule_023",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 488,
+        "rule": "rule_015",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 456,
+        "rule": "rule_005",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 551,
+        "rule": "rule_020",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 105,
+        "rule": "rule_023",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 254,
+        "rule": "rule_025",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 72,
+        "rule": "rule_006",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 57,
+        "rule": "rule_015",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 90,
+        "rule": "rule_010",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 25,
+        "rule": "rule_027",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 15,
+        "rule": "rule_024",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 80,
+        "rule": "rule_027",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 46,
+        "rule": "cxcx_cancel",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 94,
+        "rule": "rule_016",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 60,
+        "rule": "rule_024",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 40,
+        "rule": "rule_005",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 4938,
+        "rule": "rule_025",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 1654,
+        "rule": "rule_009",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 592,
+        "rule": "rule_013",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 3043,
+        "rule": "rule_022",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 2876,
+        "rule": "swap_decompose",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 439,
+        "rule": "rule_009",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 1026,
+        "rule": "rule_017",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 3284,
+        "rule": "cxcx_cancel",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 119,
+        "rule": "rule_000",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 2739,
+        "rule": "rule_023",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 44,
+        "rule": "rule_019",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 4,
+        "rule": "rule_019",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 46,
+        "rule": "rule_016",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 9,
+        "rule": "rule_006",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 29,
+        "rule": "rule_010",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 32,
+        "rule": "rule_000",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 43,
+        "rule": "rule_013",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 2,
+        "rule": "rule_025",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 18,
+        "rule": "hh_cancel",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      },
+      {
+        "pos": 25,
+        "rule": "rule_018",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0
+      }
+    ]
+  ],
+  "qasm_list": [
+    "../circuits/gf2^5_mult.qasm",
+    "../circuits/gf2^8_mult.qasm",
+    "../circuits/gf2^6_mult.qasm",
+    "../circuits/barenco_tof_5.qasm",
+    "../circuits/qcla_mod_7.qasm",
+    "../circuits/barenco_tof_10.qasm",
+    "../circuits/grover_5.qasm",
+    "../circuits/gf2^7_mult.qasm",
+    "../circuits/csum_mux_9.qasm",
+    "../circuits/barenco_tof_4.qasm",
+    "../circuits/gf2^9_mult.qasm",
+    "../circuits/vbe_adder_3.qasm",
+    "../circuits/qcla_adder_10.qasm",
+    "../circuits/tof_3.qasm",
+    "../circuits/qcla_com_7.qasm",
+    "../circuits/ham15-low.qasm",
+    "../circuits/tof_10.qasm",
+    "../circuits/gf2^10_mult.qasm",
+    "../circuits/gf2^32_mult.qasm",
+    "../circuits/mod5_4.qasm",
+    "../circuits/gf2^16_mult.qasm",
+    "../circuits/rc_adder_6.qasm",
+    "../circuits/ghz3.qasm",
+    "../circuits/gf2^4_mult.qasm",
+    "../circuits/mod_adder_1024.qasm",
+    "../circuits/csla_mux_3.qasm",
+    "../circuits/adder_8.qasm",
+    "../circuits/mod_mult_55.qasm",
+    "../circuits/ham15-high.qasm",
+    "../circuits/barenco_tof_3.qasm"
+  ]
+}

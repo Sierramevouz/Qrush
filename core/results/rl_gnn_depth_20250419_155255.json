@@ -1,0 +1,2828 @@
+{
+  "reward_trace": [
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0
+  ],
+  "traces": [
+    [
+      {
+        "pos": 55,
+        "rule": "rule_002",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 48,
+        "rule": "swap_decompose",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 2,
+        "rule": "rule_020",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 33,
+        "rule": "rule_000",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 41,
+        "rule": "rule_022",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 52,
+        "rule": "cxcx_cancel",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 46,
+        "rule": "rule_017",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 20,
+        "rule": "rule_007",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 18,
+        "rule": "cxcx_cancel",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 16,
+        "rule": "rule_024",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      }
+    ],
+    [
+      {
+        "pos": 330,
+        "rule": "rule_014",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 135,
+        "rule": "rule_020",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 84,
+        "rule": "rule_028",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 122,
+        "rule": "rule_019",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 63,
+        "rule": "rule_009",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 140,
+        "rule": "cxcx_cancel",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 77,
+        "rule": "rule_017",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 232,
+        "rule": "rule_012",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 220,
+        "rule": "rule_029",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 392,
+        "rule": "rule_016",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      }
+    ],
+    [
+      {
+        "pos": 108,
+        "rule": "rule_025",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 538,
+        "rule": "rule_005",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 693,
+        "rule": "rule_006",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 743,
+        "rule": "rule_014",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 154,
+        "rule": "rule_008",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 602,
+        "rule": "rule_027",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 533,
+        "rule": "rule_026",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 314,
+        "rule": "swap_decompose",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 637,
+        "rule": "rule_020",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 360,
+        "rule": "rule_020",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      }
+    ],
+    [
+      {
+        "pos": 13,
+        "rule": "rule_010",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 74,
+        "rule": "rule_014",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 17,
+        "rule": "rule_003",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 68,
+        "rule": "rule_022",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 34,
+        "rule": "rule_018",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 65,
+        "rule": "rule_003",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 65,
+        "rule": "rule_003",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 34,
+        "rule": "rule_019",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 93,
+        "rule": "rule_012",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 14,
+        "rule": "rule_004",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      }
+    ],
+    [
+      {
+        "pos": 335,
+        "rule": "rule_009",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 289,
+        "rule": "rule_017",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 296,
+        "rule": "rule_008",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 88,
+        "rule": "cxcx_cancel",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 71,
+        "rule": "rule_006",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 81,
+        "rule": "rule_029",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 112,
+        "rule": "rule_017",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 314,
+        "rule": "rule_006",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 323,
+        "rule": "rule_020",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 237,
+        "rule": "rule_023",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      }
+    ],
+    [
+      {
+        "pos": 42,
+        "rule": "rule_029",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 6,
+        "rule": "rule_007",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 4,
+        "rule": "rule_002",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 93,
+        "rule": "rule_029",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 219,
+        "rule": "rule_009",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 249,
+        "rule": "rule_029",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 233,
+        "rule": "rule_003",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 4,
+        "rule": "cxcx_cancel",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 143,
+        "rule": "rule_016",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 131,
+        "rule": "rule_025",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      }
+    ],
+    [
+      {
+        "pos": 3570,
+        "rule": "rule_007",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 2862,
+        "rule": "rule_003",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 554,
+        "rule": "rule_009",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 1373,
+        "rule": "rule_006",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 4142,
+        "rule": "rule_010",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 2136,
+        "rule": "rule_020",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 452,
+        "rule": "rule_018",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 2976,
+        "rule": "rule_024",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 3595,
+        "rule": "rule_019",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 1991,
+        "rule": "rule_006",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      }
+    ],
+    [
+      {
+        "pos": 340,
+        "rule": "rule_004",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 421,
+        "rule": "rule_019",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 386,
+        "rule": "swap_decompose",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 303,
+        "rule": "rule_022",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 850,
+        "rule": "rule_005",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 523,
+        "rule": "rule_006",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 655,
+        "rule": "rule_013",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 654,
+        "rule": "rule_018",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 88,
+        "rule": "rule_019",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 637,
+        "rule": "rule_012",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      }
+    ],
+    [
+      {
+        "pos": 64,
+        "rule": "rule_019",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 12,
+        "rule": "swap_decompose",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 41,
+        "rule": "rule_007",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 77,
+        "rule": "rule_023",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 59,
+        "rule": "rule_024",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 7,
+        "rule": "rule_028",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 98,
+        "rule": "cxcx_cancel",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 39,
+        "rule": "rule_017",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 39,
+        "rule": "rule_025",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 14,
+        "rule": "rule_014",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      }
+    ],
+    [
+      {
+        "pos": 5084,
+        "rule": "hh_cancel",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 453,
+        "rule": "rule_000",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 31,
+        "rule": "rule_019",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 5082,
+        "rule": "swap_decompose",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 337,
+        "rule": "rule_026",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 4625,
+        "rule": "rule_029",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 826,
+        "rule": "rule_020",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 4584,
+        "rule": "rule_001",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 3425,
+        "rule": "rule_019",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 237,
+        "rule": "rule_008",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      }
+    ],
+    [
+      {
+        "pos": 5,
+        "rule": "rule_017",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 39,
+        "rule": "rule_012",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 8,
+        "rule": "rule_016",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 8,
+        "rule": "hh_cancel",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 23,
+        "rule": "rule_009",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 11,
+        "rule": "rule_020",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 21,
+        "rule": "rule_013",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 19,
+        "rule": "rule_022",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 8,
+        "rule": "rule_015",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 16,
+        "rule": "rule_010",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      }
+    ],
+    [
+      {
+        "pos": 2963,
+        "rule": "rule_014",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 615,
+        "rule": "rule_027",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 297,
+        "rule": "rule_017",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 1097,
+        "rule": "swap_decompose",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 1224,
+        "rule": "rule_009",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 1701,
+        "rule": "rule_021",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 94,
+        "rule": "rule_027",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 839,
+        "rule": "rule_029",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 2944,
+        "rule": "hh_cancel",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 856,
+        "rule": "rule_022",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      }
+    ],
+    [
+      {
+        "pos": 138,
+        "rule": "rule_019",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 11,
+        "rule": "rule_014",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 2,
+        "rule": "rule_006",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 11,
+        "rule": "rule_027",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 128,
+        "rule": "rule_005",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 153,
+        "rule": "hh_cancel",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 71,
+        "rule": "rule_006",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 125,
+        "rule": "rule_013",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 202,
+        "rule": "rule_013",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 176,
+        "rule": "rule_008",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      }
+    ],
+    [
+      {
+        "pos": 16,
+        "rule": "rule_018",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 129,
+        "rule": "rule_010",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 84,
+        "rule": "rule_027",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 82,
+        "rule": "rule_014",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 140,
+        "rule": "rule_019",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 73,
+        "rule": "rule_003",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 19,
+        "rule": "rule_012",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 138,
+        "rule": "rule_018",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 1,
+        "rule": "rule_022",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 142,
+        "rule": "rule_026",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      }
+    ],
+    [
+      {
+        "pos": 102,
+        "rule": "rule_003",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 112,
+        "rule": "rule_008",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 12,
+        "rule": "rule_008",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 38,
+        "rule": "rule_008",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 77,
+        "rule": "rule_016",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 60,
+        "rule": "rule_029",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 90,
+        "rule": "rule_022",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 7,
+        "rule": "rule_016",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 33,
+        "rule": "rule_018",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 42,
+        "rule": "rule_010",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      }
+    ],
+    [
+      {
+        "pos": 265,
+        "rule": "rule_022",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 266,
+        "rule": "rule_024",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 389,
+        "rule": "rule_000",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 314,
+        "rule": "rule_014",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 288,
+        "rule": "rule_005",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 51,
+        "rule": "rule_017",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 358,
+        "rule": "rule_023",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 377,
+        "rule": "rule_002",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 246,
+        "rule": "rule_001",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 27,
+        "rule": "rule_012",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      }
+    ],
+    [
+      {
+        "pos": 282,
+        "rule": "rule_018",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 299,
+        "rule": "rule_000",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 116,
+        "rule": "rule_028",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 153,
+        "rule": "rule_025",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 305,
+        "rule": "rule_006",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 49,
+        "rule": "rule_021",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 237,
+        "rule": "rule_024",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 203,
+        "rule": "rule_014",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 20,
+        "rule": "rule_010",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 226,
+        "rule": "rule_006",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      }
+    ],
+    [
+      {
+        "pos": 107,
+        "rule": "rule_026",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 56,
+        "rule": "rule_008",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 217,
+        "rule": "rule_024",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 175,
+        "rule": "rule_004",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 91,
+        "rule": "rule_017",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 123,
+        "rule": "rule_025",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 121,
+        "rule": "rule_019",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 210,
+        "rule": "rule_028",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 116,
+        "rule": "rule_005",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 173,
+        "rule": "rule_009",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      }
+    ],
+    [
+      {
+        "pos": 214,
+        "rule": "rule_007",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 113,
+        "rule": "rule_015",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 55,
+        "rule": "rule_018",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 34,
+        "rule": "cxcx_cancel",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 209,
+        "rule": "rule_008",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 188,
+        "rule": "hh_cancel",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 129,
+        "rule": "rule_002",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 171,
+        "rule": "rule_027",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 146,
+        "rule": "rule_026",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 89,
+        "rule": "rule_018",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      }
+    ],
+    [
+      {
+        "pos": 434,
+        "rule": "rule_019",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 6,
+        "rule": "rule_024",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 35,
+        "rule": "rule_028",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 362,
+        "rule": "rule_020",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 536,
+        "rule": "rule_008",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 417,
+        "rule": "rule_012",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 127,
+        "rule": "rule_011",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 279,
+        "rule": "swap_decompose",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 648,
+        "rule": "hh_cancel",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 75,
+        "rule": "rule_019",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      }
+    ],
+    [
+      {
+        "pos": 6,
+        "rule": "rule_028",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 214,
+        "rule": "rule_010",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 39,
+        "rule": "rule_000",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 111,
+        "rule": "rule_018",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 97,
+        "rule": "rule_014",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 243,
+        "rule": "swap_decompose",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 233,
+        "rule": "rule_000",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 170,
+        "rule": "rule_026",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 120,
+        "rule": "rule_003",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 240,
+        "rule": "rule_011",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      }
+    ],
+    [
+      {
+        "pos": 63,
+        "rule": "rule_016",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 26,
+        "rule": "rule_004",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 40,
+        "rule": "cxcx_cancel",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 43,
+        "rule": "rule_009",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 59,
+        "rule": "rule_011",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 36,
+        "rule": "rule_027",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 42,
+        "rule": "rule_007",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 67,
+        "rule": "rule_027",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 54,
+        "rule": "rule_019",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 65,
+        "rule": "rule_000",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      }
+    ],
+    [
+      {
+        "pos": 143,
+        "rule": "cxcx_cancel",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 49,
+        "rule": "rule_022",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 152,
+        "rule": "rule_028",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 113,
+        "rule": "hh_cancel",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 47,
+        "rule": "rule_010",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 39,
+        "rule": "rule_005",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 68,
+        "rule": "rule_011",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 53,
+        "rule": "rule_008",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 15,
+        "rule": "rule_004",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 63,
+        "rule": "rule_014",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      }
+    ],
+    [
+      {
+        "pos": 57,
+        "rule": "rule_011",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 28,
+        "rule": "swap_decompose",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 300,
+        "rule": "rule_000",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 416,
+        "rule": "rule_021",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 300,
+        "rule": "rule_020",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 354,
+        "rule": "rule_008",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 139,
+        "rule": "rule_026",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 221,
+        "rule": "rule_003",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 238,
+        "rule": "rule_009",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 174,
+        "rule": "rule_027",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      }
+    ],
+    [
+      {
+        "pos": 954,
+        "rule": "rule_017",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 590,
+        "rule": "rule_022",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 806,
+        "rule": "hh_cancel",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 597,
+        "rule": "rule_022",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 306,
+        "rule": "rule_003",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 380,
+        "rule": "rule_006",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 664,
+        "rule": "rule_027",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 157,
+        "rule": "rule_027",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 119,
+        "rule": "rule_005",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 407,
+        "rule": "rule_001",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      }
+    ],
+    [
+      {
+        "pos": 161,
+        "rule": "rule_007",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 418,
+        "rule": "rule_004",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 439,
+        "rule": "swap_decompose",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 392,
+        "rule": "rule_028",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 99,
+        "rule": "rule_018",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 492,
+        "rule": "rule_017",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 476,
+        "rule": "rule_026",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 149,
+        "rule": "rule_018",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 432,
+        "rule": "rule_002",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 339,
+        "rule": "rule_018",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      }
+    ],
+    [
+      {
+        "pos": 315,
+        "rule": "rule_009",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 656,
+        "rule": "rule_017",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 178,
+        "rule": "rule_003",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 735,
+        "rule": "rule_028",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 515,
+        "rule": "rule_028",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 225,
+        "rule": "rule_015",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 189,
+        "rule": "cxcx_cancel",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 633,
+        "rule": "rule_020",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 596,
+        "rule": "rule_002",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 222,
+        "rule": "rule_005",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      }
+    ],
+    [
+      {
+        "pos": 95,
+        "rule": "rule_015",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 151,
+        "rule": "swap_decompose",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 645,
+        "rule": "rule_008",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 163,
+        "rule": "rule_019",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 767,
+        "rule": "rule_023",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 534,
+        "rule": "rule_015",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 580,
+        "rule": "rule_002",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 739,
+        "rule": "rule_009",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 7,
+        "rule": "rule_010",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 611,
+        "rule": "rule_024",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      }
+    ],
+    [
+      {
+        "pos": 29,
+        "rule": "rule_005",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 48,
+        "rule": "rule_012",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 8,
+        "rule": "rule_011",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 29,
+        "rule": "rule_017",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 126,
+        "rule": "rule_026",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 38,
+        "rule": "rule_012",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 128,
+        "rule": "cxcx_cancel",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 28,
+        "rule": "rule_012",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 55,
+        "rule": "rule_015",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 130,
+        "rule": "rule_012",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      }
+    ],
+    [
+      {
+        "pos": 966,
+        "rule": "rule_004",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 951,
+        "rule": "rule_023",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 1203,
+        "rule": "rule_017",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 532,
+        "rule": "rule_017",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 49,
+        "rule": "rule_019",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 994,
+        "rule": "rule_026",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 1135,
+        "rule": "rule_025",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 494,
+        "rule": "rule_020",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 395,
+        "rule": "swap_decompose",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 676,
+        "rule": "rule_014",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      }
+    ]
+  ],
+  "qasm_list": [
+    "../circuits/barenco_tof_3.qasm",
+    "../circuits/ham15-low.qasm",
+    "../circuits/qcla_mod_7.qasm",
+    "../circuits/mod_mult_55.qasm",
+    "../circuits/gf2^5_mult.qasm",
+    "../circuits/hwb6.qasm",
+    "../circuits/mod_adder_1024.qasm",
+    "../circuits/adder_8.qasm",
+    "../circuits/qft3.qasm",
+    "../circuits/ham15-high.qasm",
+    "../circuits/tof_3.qasm",
+    "../circuits/gf2^16_mult.qasm",
+    "../circuits/gf2^4_mult.qasm",
+    "../circuits/barenco_tof_5.qasm",
+    "../circuits/barenco_tof_4.qasm",
+    "../circuits/qcla_com_7.qasm",
+    "../circuits/barenco_tof_10.qasm",
+    "../circuits/tof_10.qasm",
+    "../circuits/ghz3.qasm",
+    "../circuits/gf2^7_mult.qasm",
+    "../circuits/mod_red_21.qasm",
+    "../circuits/tof_4.qasm",
+    "../circuits/csla_mux_3.qasm",
+    "../circuits/qcla_adder_10.qasm",
+    "../circuits/gf2^9_mult.qasm",
+    "../circuits/gf2^6_mult.qasm",
+    "../circuits/grover_5.qasm",
+    "../circuits/gf2^8_mult.qasm",
+    "../circuits/vbe_adder_3.qasm",
+    "../circuits/ham15-med.qasm"
+  ]
+}

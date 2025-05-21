@@ -96,3 +96,4 @@ if __name__ == "__main__":
 
     print(f"\n📦 Total rules saved: {rule_count.value}")
     print(f"⏱️  Elapsed time: {time.time() - start:.2f} seconds")
+A

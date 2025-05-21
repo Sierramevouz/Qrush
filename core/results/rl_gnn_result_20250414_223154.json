@@ -1,0 +1,2657 @@
+{
+  "qasm": "../circuits/ghz3.qasm",
+  "reward_trace": [
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0
+  ],
+  "traces": [
+    [
+      {
+        "pos": 135,
+        "rule": "rule_018",
+        "reward": -1.0
+      },
+      {
+        "pos": 100,
+        "rule": "rule_023",
+        "reward": -1.0
+      },
+      {
+        "pos": 128,
+        "rule": "rule_003",
+        "reward": -1.0
+      },
+      {
+        "pos": 124,
+        "rule": "rule_027",
+        "reward": -1.0
+      },
+      {
+        "pos": 131,
+        "rule": "rule_012",
+        "reward": -1.0
+      },
+      {
+        "pos": 81,
+        "rule": "rule_020",
+        "reward": -1.0
+      },
+      {
+        "pos": 221,
+        "rule": "rule_017",
+        "reward": -1.0
+      },
+      {
+        "pos": 43,
+        "rule": "rule_021",
+        "reward": -1.0
+      },
+      {
+        "pos": 29,
+        "rule": "rule_024",
+        "reward": -1.0
+      },
+      {
+        "pos": 220,
+        "rule": "rule_009",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 46,
+        "rule": "rule_023",
+        "reward": -1.0
+      },
+      {
+        "pos": 174,
+        "rule": "rule_021",
+        "reward": -1.0
+      },
+      {
+        "pos": 204,
+        "rule": "rule_025",
+        "reward": -1.0
+      },
+      {
+        "pos": 87,
+        "rule": "rule_003",
+        "reward": -1.0
+      },
+      {
+        "pos": 58,
+        "rule": "rule_004",
+        "reward": -1.0
+      },
+      {
+        "pos": 41,
+        "rule": "rule_020",
+        "reward": -1.0
+      },
+      {
+        "pos": 135,
+        "rule": "rule_023",
+        "reward": -1.0
+      },
+      {
+        "pos": 64,
+        "rule": "rule_008",
+        "reward": -1.0
+      },
+      {
+        "pos": 119,
+        "rule": "rule_029",
+        "reward": -1.0
+      },
+      {
+        "pos": 175,
+        "rule": "rule_026",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 29,
+        "rule": "rule_025",
+        "reward": -1.0
+      },
+      {
+        "pos": 10,
+        "rule": "rule_014",
+        "reward": -1.0
+      },
+      {
+        "pos": 85,
+        "rule": "rule_026",
+        "reward": -1.0
+      },
+      {
+        "pos": 41,
+        "rule": "rule_017",
+        "reward": -1.0
+      },
+      {
+        "pos": 45,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 91,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 155,
+        "rule": "rule_012",
+        "reward": -1.0
+      },
+      {
+        "pos": 185,
+        "rule": "rule_029",
+        "reward": -1.0
+      },
+      {
+        "pos": 130,
+        "rule": "rule_001",
+        "reward": -1.0
+      },
+      {
+        "pos": 188,
+        "rule": "rule_006",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 32,
+        "rule": "rule_009",
+        "reward": -1.0
+      },
+      {
+        "pos": 24,
+        "rule": "rule_004",
+        "reward": -1.0
+      },
+      {
+        "pos": 165,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 110,
+        "rule": "rule_005",
+        "reward": -1.0
+      },
+      {
+        "pos": 174,
+        "rule": "rule_002",
+        "reward": -1.0
+      },
+      {
+        "pos": 94,
+        "rule": "rule_011",
+        "reward": -1.0
+      },
+      {
+        "pos": 51,
+        "rule": "rule_001",
+        "reward": -1.0
+      },
+      {
+        "pos": 16,
+        "rule": "rule_007",
+        "reward": -1.0
+      },
+      {
+        "pos": 175,
+        "rule": "rule_022",
+        "reward": -1.0
+      },
+      {
+        "pos": 172,
+        "rule": "rule_024",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 23,
+        "rule": "rule_022",
+        "reward": -1.0
+      },
+      {
+        "pos": 110,
+        "rule": "rule_017",
+        "reward": -1.0
+      },
+      {
+        "pos": 116,
+        "rule": "rule_018",
+        "reward": -1.0
+      },
+      {
+        "pos": 112,
+        "rule": "rule_003",
+        "reward": -1.0
+      },
+      {
+        "pos": 211,
+        "rule": "rule_004",
+        "reward": -1.0
+      },
+      {
+        "pos": 82,
+        "rule": "rule_005",
+        "reward": -1.0
+      },
+      {
+        "pos": 80,
+        "rule": "rule_004",
+        "reward": -1.0
+      },
+      {
+        "pos": 158,
+        "rule": "rule_023",
+        "reward": -1.0
+      },
+      {
+        "pos": 86,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 25,
+        "rule": "rule_021",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 201,
+        "rule": "rule_000",
+        "reward": -1.0
+      },
+      {
+        "pos": 50,
+        "rule": "rule_019",
+        "reward": -1.0
+      },
+      {
+        "pos": 203,
+        "rule": "rule_010",
+        "reward": -1.0
+      },
+      {
+        "pos": 99,
+        "rule": "rule_018",
+        "reward": -1.0
+      },
+      {
+        "pos": 74,
+        "rule": "rule_009",
+        "reward": -1.0
+      },
+      {
+        "pos": 75,
+        "rule": "rule_016",
+        "reward": -1.0
+      },
+      {
+        "pos": 115,
+        "rule": "rule_011",
+        "reward": -1.0
+      },
+      {
+        "pos": 8,
+        "rule": "rule_025",
+        "reward": -1.0
+      },
+      {
+        "pos": 95,
+        "rule": "rule_023",
+        "reward": -1.0
+      },
+      {
+        "pos": 30,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 203,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 75,
+        "rule": "rule_025",
+        "reward": -1.0
+      },
+      {
+        "pos": 204,
+        "rule": "rule_014",
+        "reward": -1.0
+      },
+      {
+        "pos": 179,
+        "rule": "rule_022",
+        "reward": -1.0
+      },
+      {
+        "pos": 105,
+        "rule": "rule_005",
+        "reward": -1.0
+      },
+      {
+        "pos": 109,
+        "rule": "rule_010",
+        "reward": -1.0
+      },
+      {
+        "pos": 116,
+        "rule": "rule_022",
+        "reward": -1.0
+      },
+      {
+        "pos": 61,
+        "rule": "rule_006",
+        "reward": -1.0
+      },
+      {
+        "pos": 215,
+        "rule": "rule_025",
+        "reward": -1.0
+      },
+      {
+        "pos": 190,
+        "rule": "rule_010",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 200,
+        "rule": "rule_005",
+        "reward": -1.0
+      },
+      {
+        "pos": 21,
+        "rule": "rule_026",
+        "reward": -1.0
+      },
+      {
+        "pos": 69,
+        "rule": "rule_007",
+        "reward": -1.0
+      },
+      {
+        "pos": 60,
+        "rule": "rule_003",
+        "reward": -1.0
+      },
+      {
+        "pos": 178,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 146,
+        "rule": "rule_014",
+        "reward": -1.0
+      },
+      {
+        "pos": 140,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 73,
+        "rule": "rule_027",
+        "reward": -1.0
+      },
+      {
+        "pos": 51,
+        "rule": "rule_009",
+        "reward": -1.0
+      },
+      {
+        "pos": 67,
+        "rule": "rule_026",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 48,
+        "rule": "rule_003",
+        "reward": -1.0
+      },
+      {
+        "pos": 195,
+        "rule": "rule_016",
+        "reward": -1.0
+      },
+      {
+        "pos": 179,
+        "rule": "rule_001",
+        "reward": -1.0
+      },
+      {
+        "pos": 216,
+        "rule": "rule_017",
+        "reward": -1.0
+      },
+      {
+        "pos": 164,
+        "rule": "rule_024",
+        "reward": -1.0
+      },
+      {
+        "pos": 172,
+        "rule": "rule_006",
+        "reward": -1.0
+      },
+      {
+        "pos": 31,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 208,
+        "rule": "rule_023",
+        "reward": -1.0
+      },
+      {
+        "pos": 32,
+        "rule": "rule_016",
+        "reward": -1.0
+      },
+      {
+        "pos": 96,
+        "rule": "rule_020",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 83,
+        "rule": "rule_028",
+        "reward": -1.0
+      },
+      {
+        "pos": 37,
+        "rule": "rule_019",
+        "reward": -1.0
+      },
+      {
+        "pos": 26,
+        "rule": "rule_018",
+        "reward": -1.0
+      },
+      {
+        "pos": 123,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 213,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 189,
+        "rule": "rule_017",
+        "reward": -1.0
+      },
+      {
+        "pos": 203,
+        "rule": "rule_007",
+        "reward": -1.0
+      },
+      {
+        "pos": 179,
+        "rule": "rule_010",
+        "reward": -1.0
+      },
+      {
+        "pos": 223,
+        "rule": "rule_022",
+        "reward": -1.0
+      },
+      {
+        "pos": 178,
+        "rule": "rule_014",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 140,
+        "rule": "rule_005",
+        "reward": -1.0
+      },
+      {
+        "pos": 105,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 47,
+        "rule": "rule_008",
+        "reward": -1.0
+      },
+      {
+        "pos": 96,
+        "rule": "rule_015",
+        "reward": -1.0
+      },
+      {
+        "pos": 37,
+        "rule": "rule_025",
+        "reward": -1.0
+      },
+      {
+        "pos": 218,
+        "rule": "rule_024",
+        "reward": -1.0
+      },
+      {
+        "pos": 55,
+        "rule": "rule_019",
+        "reward": -1.0
+      },
+      {
+        "pos": 103,
+        "rule": "rule_015",
+        "reward": -1.0
+      },
+      {
+        "pos": 224,
+        "rule": "rule_026",
+        "reward": -1.0
+      },
+      {
+        "pos": 21,
+        "rule": "rule_022",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 197,
+        "rule": "rule_010",
+        "reward": -1.0
+      },
+      {
+        "pos": 193,
+        "rule": "rule_003",
+        "reward": -1.0
+      },
+      {
+        "pos": 57,
+        "rule": "rule_029",
+        "reward": -1.0
+      },
+      {
+        "pos": 7,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 178,
+        "rule": "rule_007",
+        "reward": -1.0
+      },
+      {
+        "pos": 50,
+        "rule": "rule_022",
+        "reward": -1.0
+      },
+      {
+        "pos": 183,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 56,
+        "rule": "rule_009",
+        "reward": -1.0
+      },
+      {
+        "pos": 141,
+        "rule": "rule_001",
+        "reward": -1.0
+      },
+      {
+        "pos": 141,
+        "rule": "rule_016",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 164,
+        "rule": "rule_011",
+        "reward": -1.0
+      },
+      {
+        "pos": 172,
+        "rule": "rule_011",
+        "reward": -1.0
+      },
+      {
+        "pos": 176,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 193,
+        "rule": "rule_014",
+        "reward": -1.0
+      },
+      {
+        "pos": 96,
+        "rule": "rule_010",
+        "reward": -1.0
+      },
+      {
+        "pos": 60,
+        "rule": "rule_013",
+        "reward": -1.0
+      },
+      {
+        "pos": 103,
+        "rule": "rule_004",
+        "reward": -1.0
+      },
+      {
+        "pos": 146,
+        "rule": "rule_018",
+        "reward": -1.0
+      },
+      {
+        "pos": 182,
+        "rule": "rule_003",
+        "reward": -1.0
+      },
+      {
+        "pos": 181,
+        "rule": "rule_012",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 25,
+        "rule": "rule_023",
+        "reward": -1.0
+      },
+      {
+        "pos": 217,
+        "rule": "rule_007",
+        "reward": -1.0
+      },
+      {
+        "pos": 14,
+        "rule": "rule_013",
+        "reward": -1.0
+      },
+      {
+        "pos": 196,
+        "rule": "rule_017",
+        "reward": -1.0
+      },
+      {
+        "pos": 183,
+        "rule": "rule_004",
+        "reward": -1.0
+      },
+      {
+        "pos": 112,
+        "rule": "rule_003",
+        "reward": -1.0
+      },
+      {
+        "pos": 207,
+        "rule": "rule_011",
+        "reward": -1.0
+      },
+      {
+        "pos": 58,
+        "rule": "rule_026",
+        "reward": -1.0
+      },
+      {
+        "pos": 152,
+        "rule": "rule_011",
+        "reward": -1.0
+      },
+      {
+        "pos": 34,
+        "rule": "rule_029",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 132,
+        "rule": "rule_028",
+        "reward": -1.0
+      },
+      {
+        "pos": 156,
+        "rule": "rule_022",
+        "reward": -1.0
+      },
+      {
+        "pos": 221,
+        "rule": "rule_003",
+        "reward": -1.0
+      },
+      {
+        "pos": 104,
+        "rule": "rule_000",
+        "reward": -1.0
+      },
+      {
+        "pos": 177,
+        "rule": "rule_025",
+        "reward": -1.0
+      },
+      {
+        "pos": 161,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 162,
+        "rule": "rule_021",
+        "reward": -1.0
+      },
+      {
+        "pos": 79,
+        "rule": "rule_017",
+        "reward": -1.0
+      },
+      {
+        "pos": 156,
+        "rule": "rule_019",
+        "reward": -1.0
+      },
+      {
+        "pos": 0,
+        "rule": "rule_018",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 22,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 108,
+        "rule": "rule_018",
+        "reward": -1.0
+      },
+      {
+        "pos": 208,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 177,
+        "rule": "rule_006",
+        "reward": -1.0
+      },
+      {
+        "pos": 202,
+        "rule": "rule_019",
+        "reward": -1.0
+      },
+      {
+        "pos": 28,
+        "rule": "rule_004",
+        "reward": -1.0
+      },
+      {
+        "pos": 187,
+        "rule": "rule_009",
+        "reward": -1.0
+      },
+      {
+        "pos": 118,
+        "rule": "rule_004",
+        "reward": -1.0
+      },
+      {
+        "pos": 198,
+        "rule": "rule_008",
+        "reward": -1.0
+      },
+      {
+        "pos": 20,
+        "rule": "rule_004",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 92,
+        "rule": "rule_013",
+        "reward": -1.0
+      },
+      {
+        "pos": 145,
+        "rule": "rule_018",
+        "reward": -1.0
+      },
+      {
+        "pos": 173,
+        "rule": "rule_009",
+        "reward": -1.0
+      },
+      {
+        "pos": 126,
+        "rule": "rule_007",
+        "reward": -1.0
+      },
+      {
+        "pos": 217,
+        "rule": "rule_020",
+        "reward": -1.0
+      },
+      {
+        "pos": 90,
+        "rule": "rule_019",
+        "reward": -1.0
+      },
+      {
+        "pos": 43,
+        "rule": "rule_002",
+        "reward": -1.0
+      },
+      {
+        "pos": 107,
+        "rule": "rule_029",
+        "reward": -1.0
+      },
+      {
+        "pos": 94,
+        "rule": "rule_004",
+        "reward": -1.0
+      },
+      {
+        "pos": 101,
+        "rule": "rule_021",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 66,
+        "rule": "rule_028",
+        "reward": -1.0
+      },
+      {
+        "pos": 56,
+        "rule": "rule_018",
+        "reward": -1.0
+      },
+      {
+        "pos": 71,
+        "rule": "rule_026",
+        "reward": -1.0
+      },
+      {
+        "pos": 59,
+        "rule": "rule_028",
+        "reward": -1.0
+      },
+      {
+        "pos": 217,
+        "rule": "rule_028",
+        "reward": -1.0
+      },
+      {
+        "pos": 13,
+        "rule": "rule_011",
+        "reward": -1.0
+      },
+      {
+        "pos": 47,
+        "rule": "rule_012",
+        "reward": -1.0
+      },
+      {
+        "pos": 58,
+        "rule": "rule_029",
+        "reward": -1.0
+      },
+      {
+        "pos": 159,
+        "rule": "rule_018",
+        "reward": -1.0
+      },
+      {
+        "pos": 144,
+        "rule": "rule_009",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 3,
+        "rule": "rule_025",
+        "reward": -1.0
+      },
+      {
+        "pos": 108,
+        "rule": "rule_002",
+        "reward": -1.0
+      },
+      {
+        "pos": 22,
+        "rule": "rule_015",
+        "reward": -1.0
+      },
+      {
+        "pos": 30,
+        "rule": "rule_021",
+        "reward": -1.0
+      },
+      {
+        "pos": 94,
+        "rule": "rule_017",
+        "reward": -1.0
+      },
+      {
+        "pos": 121,
+        "rule": "rule_009",
+        "reward": -1.0
+      },
+      {
+        "pos": 209,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 54,
+        "rule": "rule_017",
+        "reward": -1.0
+      },
+      {
+        "pos": 67,
+        "rule": "rule_029",
+        "reward": -1.0
+      },
+      {
+        "pos": 29,
+        "rule": "rule_011",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 88,
+        "rule": "rule_020",
+        "reward": -1.0
+      },
+      {
+        "pos": 219,
+        "rule": "rule_022",
+        "reward": -1.0
+      },
+      {
+        "pos": 168,
+        "rule": "rule_006",
+        "reward": -1.0
+      },
+      {
+        "pos": 196,
+        "rule": "rule_000",
+        "reward": -1.0
+      },
+      {
+        "pos": 2,
+        "rule": "rule_012",
+        "reward": -1.0
+      },
+      {
+        "pos": 198,
+        "rule": "rule_018",
+        "reward": -1.0
+      },
+      {
+        "pos": 199,
+        "rule": "rule_010",
+        "reward": -1.0
+      },
+      {
+        "pos": 221,
+        "rule": "rule_029",
+        "reward": -1.0
+      },
+      {
+        "pos": 24,
+        "rule": "rule_028",
+        "reward": -1.0
+      },
+      {
+        "pos": 159,
+        "rule": "rule_021",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 46,
+        "rule": "rule_021",
+        "reward": -1.0
+      },
+      {
+        "pos": 92,
+        "rule": "rule_021",
+        "reward": -1.0
+      },
+      {
+        "pos": 154,
+        "rule": "rule_020",
+        "reward": -1.0
+      },
+      {
+        "pos": 9,
+        "rule": "rule_000",
+        "reward": -1.0
+      },
+      {
+        "pos": 18,
+        "rule": "rule_010",
+        "reward": -1.0
+      },
+      {
+        "pos": 194,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 85,
+        "rule": "rule_017",
+        "reward": -1.0
+      },
+      {
+        "pos": 29,
+        "rule": "rule_021",
+        "reward": -1.0
+      },
+      {
+        "pos": 176,
+        "rule": "rule_020",
+        "reward": -1.0
+      },
+      {
+        "pos": 132,
+        "rule": "rule_000",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 180,
+        "rule": "rule_008",
+        "reward": -1.0
+      },
+      {
+        "pos": 184,
+        "rule": "rule_014",
+        "reward": -1.0
+      },
+      {
+        "pos": 118,
+        "rule": "rule_002",
+        "reward": -1.0
+      },
+      {
+        "pos": 88,
+        "rule": "rule_002",
+        "reward": -1.0
+      },
+      {
+        "pos": 101,
+        "rule": "rule_014",
+        "reward": -1.0
+      },
+      {
+        "pos": 29,
+        "rule": "rule_011",
+        "reward": -1.0
+      },
+      {
+        "pos": 4,
+        "rule": "rule_022",
+        "reward": -1.0
+      },
+      {
+        "pos": 219,
+        "rule": "rule_025",
+        "reward": -1.0
+      },
+      {
+        "pos": 22,
+        "rule": "rule_024",
+        "reward": -1.0
+      },
+      {
+        "pos": 195,
+        "rule": "rule_014",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 99,
+        "rule": "rule_019",
+        "reward": -1.0
+      },
+      {
+        "pos": 72,
+        "rule": "rule_005",
+        "reward": -1.0
+      },
+      {
+        "pos": 71,
+        "rule": "rule_029",
+        "reward": -1.0
+      },
+      {
+        "pos": 149,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 18,
+        "rule": "rule_003",
+        "reward": -1.0
+      },
+      {
+        "pos": 20,
+        "rule": "rule_023",
+        "reward": -1.0
+      },
+      {
+        "pos": 207,
+        "rule": "rule_022",
+        "reward": -1.0
+      },
+      {
+        "pos": 63,
+        "rule": "rule_006",
+        "reward": -1.0
+      },
+      {
+        "pos": 23,
+        "rule": "rule_004",
+        "reward": -1.0
+      },
+      {
+        "pos": 81,
+        "rule": "rule_027",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 186,
+        "rule": "rule_028",
+        "reward": -1.0
+      },
+      {
+        "pos": 89,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 186,
+        "rule": "rule_018",
+        "reward": -1.0
+      },
+      {
+        "pos": 33,
+        "rule": "rule_002",
+        "reward": -1.0
+      },
+      {
+        "pos": 7,
+        "rule": "rule_017",
+        "reward": -1.0
+      },
+      {
+        "pos": 119,
+        "rule": "rule_028",
+        "reward": -1.0
+      },
+      {
+        "pos": 176,
+        "rule": "rule_003",
+        "reward": -1.0
+      },
+      {
+        "pos": 152,
+        "rule": "rule_009",
+        "reward": -1.0
+      },
+      {
+        "pos": 159,
+        "rule": "rule_009",
+        "reward": -1.0
+      },
+      {
+        "pos": 156,
+        "rule": "rule_019",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 198,
+        "rule": "rule_009",
+        "reward": -1.0
+      },
+      {
+        "pos": 215,
+        "rule": "rule_010",
+        "reward": -1.0
+      },
+      {
+        "pos": 170,
+        "rule": "rule_016",
+        "reward": -1.0
+      },
+      {
+        "pos": 36,
+        "rule": "rule_004",
+        "reward": -1.0
+      },
+      {
+        "pos": 4,
+        "rule": "rule_019",
+        "reward": -1.0
+      },
+      {
+        "pos": 59,
+        "rule": "rule_020",
+        "reward": -1.0
+      },
+      {
+        "pos": 24,
+        "rule": "rule_028",
+        "reward": -1.0
+      },
+      {
+        "pos": 183,
+        "rule": "rule_018",
+        "reward": -1.0
+      },
+      {
+        "pos": 49,
+        "rule": "rule_001",
+        "reward": -1.0
+      },
+      {
+        "pos": 34,
+        "rule": "rule_009",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 3,
+        "rule": "rule_023",
+        "reward": -1.0
+      },
+      {
+        "pos": 67,
+        "rule": "rule_003",
+        "reward": -1.0
+      },
+      {
+        "pos": 18,
+        "rule": "rule_022",
+        "reward": -1.0
+      },
+      {
+        "pos": 50,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 51,
+        "rule": "rule_003",
+        "reward": -1.0
+      },
+      {
+        "pos": 174,
+        "rule": "rule_006",
+        "reward": -1.0
+      },
+      {
+        "pos": 139,
+        "rule": "rule_004",
+        "reward": -1.0
+      },
+      {
+        "pos": 216,
+        "rule": "rule_017",
+        "reward": -1.0
+      },
+      {
+        "pos": 221,
+        "rule": "rule_013",
+        "reward": -1.0
+      },
+      {
+        "pos": 59,
+        "rule": "rule_023",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 157,
+        "rule": "rule_014",
+        "reward": -1.0
+      },
+      {
+        "pos": 177,
+        "rule": "rule_010",
+        "reward": -1.0
+      },
+      {
+        "pos": 121,
+        "rule": "rule_015",
+        "reward": -1.0
+      },
+      {
+        "pos": 35,
+        "rule": "rule_001",
+        "reward": -1.0
+      },
+      {
+        "pos": 18,
+        "rule": "rule_025",
+        "reward": -1.0
+      },
+      {
+        "pos": 136,
+        "rule": "rule_007",
+        "reward": -1.0
+      },
+      {
+        "pos": 96,
+        "rule": "rule_001",
+        "reward": -1.0
+      },
+      {
+        "pos": 21,
+        "rule": "rule_025",
+        "reward": -1.0
+      },
+      {
+        "pos": 203,
+        "rule": "rule_008",
+        "reward": -1.0
+      },
+      {
+        "pos": 8,
+        "rule": "rule_018",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 0,
+        "rule": "rule_027",
+        "reward": -1.0
+      },
+      {
+        "pos": 154,
+        "rule": "rule_022",
+        "reward": -1.0
+      },
+      {
+        "pos": 58,
+        "rule": "rule_026",
+        "reward": -1.0
+      },
+      {
+        "pos": 3,
+        "rule": "rule_025",
+        "reward": -1.0
+      },
+      {
+        "pos": 157,
+        "rule": "rule_009",
+        "reward": -1.0
+      },
+      {
+        "pos": 51,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 213,
+        "rule": "rule_026",
+        "reward": -1.0
+      },
+      {
+        "pos": 59,
+        "rule": "rule_012",
+        "reward": -1.0
+      },
+      {
+        "pos": 83,
+        "rule": "rule_005",
+        "reward": -1.0
+      },
+      {
+        "pos": 136,
+        "rule": "rule_028",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 163,
+        "rule": "rule_021",
+        "reward": -1.0
+      },
+      {
+        "pos": 198,
+        "rule": "rule_007",
+        "reward": -1.0
+      },
+      {
+        "pos": 181,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 172,
+        "rule": "rule_004",
+        "reward": -1.0
+      },
+      {
+        "pos": 183,
+        "rule": "rule_006",
+        "reward": -1.0
+      },
+      {
+        "pos": 86,
+        "rule": "rule_004",
+        "reward": -1.0
+      },
+      {
+        "pos": 45,
+        "rule": "rule_001",
+        "reward": -1.0
+      },
+      {
+        "pos": 17,
+        "rule": "rule_018",
+        "reward": -1.0
+      },
+      {
+        "pos": 208,
+        "rule": "rule_008",
+        "reward": -1.0
+      },
+      {
+        "pos": 34,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 69,
+        "rule": "rule_009",
+        "reward": -1.0
+      },
+      {
+        "pos": 147,
+        "rule": "rule_016",
+        "reward": -1.0
+      },
+      {
+        "pos": 171,
+        "rule": "rule_013",
+        "reward": -1.0
+      },
+      {
+        "pos": 57,
+        "rule": "rule_004",
+        "reward": -1.0
+      },
+      {
+        "pos": 25,
+        "rule": "rule_007",
+        "reward": -1.0
+      },
+      {
+        "pos": 106,
+        "rule": "rule_029",
+        "reward": -1.0
+      },
+      {
+        "pos": 189,
+        "rule": "rule_016",
+        "reward": -1.0
+      },
+      {
+        "pos": 18,
+        "rule": "rule_018",
+        "reward": -1.0
+      },
+      {
+        "pos": 80,
+        "rule": "rule_000",
+        "reward": -1.0
+      },
+      {
+        "pos": 131,
+        "rule": "rule_015",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 58,
+        "rule": "rule_022",
+        "reward": -1.0
+      },
+      {
+        "pos": 50,
+        "rule": "rule_022",
+        "reward": -1.0
+      },
+      {
+        "pos": 188,
+        "rule": "rule_020",
+        "reward": -1.0
+      },
+      {
+        "pos": 197,
+        "rule": "rule_020",
+        "reward": -1.0
+      },
+      {
+        "pos": 104,
+        "rule": "rule_006",
+        "reward": -1.0
+      },
+      {
+        "pos": 104,
+        "rule": "rule_019",
+        "reward": -1.0
+      },
+      {
+        "pos": 188,
+        "rule": "rule_009",
+        "reward": -1.0
+      },
+      {
+        "pos": 166,
+        "rule": "rule_021",
+        "reward": -1.0
+      },
+      {
+        "pos": 31,
+        "rule": "rule_018",
+        "reward": -1.0
+      },
+      {
+        "pos": 124,
+        "rule": "rule_024",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 171,
+        "rule": "rule_028",
+        "reward": -1.0
+      },
+      {
+        "pos": 128,
+        "rule": "rule_022",
+        "reward": -1.0
+      },
+      {
+        "pos": 7,
+        "rule": "rule_003",
+        "reward": -1.0
+      },
+      {
+        "pos": 106,
+        "rule": "rule_002",
+        "reward": -1.0
+      },
+      {
+        "pos": 128,
+        "rule": "rule_020",
+        "reward": -1.0
+      },
+      {
+        "pos": 13,
+        "rule": "rule_027",
+        "reward": -1.0
+      },
+      {
+        "pos": 34,
+        "rule": "rule_010",
+        "reward": -1.0
+      },
+      {
+        "pos": 152,
+        "rule": "rule_001",
+        "reward": -1.0
+      },
+      {
+        "pos": 31,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 13,
+        "rule": "rule_022",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 132,
+        "rule": "rule_021",
+        "reward": -1.0
+      },
+      {
+        "pos": 55,
+        "rule": "rule_028",
+        "reward": -1.0
+      },
+      {
+        "pos": 29,
+        "rule": "rule_020",
+        "reward": -1.0
+      },
+      {
+        "pos": 224,
+        "rule": "rule_016",
+        "reward": -1.0
+      },
+      {
+        "pos": 216,
+        "rule": "rule_011",
+        "reward": -1.0
+      },
+      {
+        "pos": 16,
+        "rule": "rule_009",
+        "reward": -1.0
+      },
+      {
+        "pos": 207,
+        "rule": "rule_006",
+        "reward": -1.0
+      },
+      {
+        "pos": 97,
+        "rule": "rule_019",
+        "reward": -1.0
+      },
+      {
+        "pos": 146,
+        "rule": "rule_012",
+        "reward": -1.0
+      },
+      {
+        "pos": 39,
+        "rule": "rule_028",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 138,
+        "rule": "rule_024",
+        "reward": -1.0
+      },
+      {
+        "pos": 200,
+        "rule": "rule_029",
+        "reward": -1.0
+      },
+      {
+        "pos": 59,
+        "rule": "rule_005",
+        "reward": -1.0
+      },
+      {
+        "pos": 16,
+        "rule": "rule_022",
+        "reward": -1.0
+      },
+      {
+        "pos": 91,
+        "rule": "rule_014",
+        "reward": -1.0
+      },
+      {
+        "pos": 158,
+        "rule": "rule_021",
+        "reward": -1.0
+      },
+      {
+        "pos": 176,
+        "rule": "rule_009",
+        "reward": -1.0
+      },
+      {
+        "pos": 8,
+        "rule": "rule_021",
+        "reward": -1.0
+      },
+      {
+        "pos": 111,
+        "rule": "rule_018",
+        "reward": -1.0
+      },
+      {
+        "pos": 126,
+        "rule": "rule_001",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 70,
+        "rule": "rule_023",
+        "reward": -1.0
+      },
+      {
+        "pos": 88,
+        "rule": "rule_027",
+        "reward": -1.0
+      },
+      {
+        "pos": 166,
+        "rule": "rule_007",
+        "reward": -1.0
+      },
+      {
+        "pos": 16,
+        "rule": "rule_017",
+        "reward": -1.0
+      },
+      {
+        "pos": 127,
+        "rule": "rule_002",
+        "reward": -1.0
+      },
+      {
+        "pos": 88,
+        "rule": "rule_029",
+        "reward": -1.0
+      },
+      {
+        "pos": 85,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 89,
+        "rule": "rule_000",
+        "reward": -1.0
+      },
+      {
+        "pos": 185,
+        "rule": "rule_007",
+        "reward": -1.0
+      },
+      {
+        "pos": 61,
+        "rule": "rule_000",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 55,
+        "rule": "rule_028",
+        "reward": -1.0
+      },
+      {
+        "pos": 69,
+        "rule": "rule_012",
+        "reward": -1.0
+      },
+      {
+        "pos": 12,
+        "rule": "rule_004",
+        "reward": -1.0
+      },
+      {
+        "pos": 9,
+        "rule": "rule_005",
+        "reward": -1.0
+      },
+      {
+        "pos": 42,
+        "rule": "rule_005",
+        "reward": -1.0
+      },
+      {
+        "pos": 70,
+        "rule": "rule_017",
+        "reward": -1.0
+      },
+      {
+        "pos": 204,
+        "rule": "rule_022",
+        "reward": -1.0
+      },
+      {
+        "pos": 56,
+        "rule": "rule_026",
+        "reward": -1.0
+      },
+      {
+        "pos": 159,
+        "rule": "rule_027",
+        "reward": -1.0
+      },
+      {
+        "pos": 172,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 62,
+        "rule": "rule_024",
+        "reward": -1.0
+      },
+      {
+        "pos": 82,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 111,
+        "rule": "rule_020",
+        "reward": -1.0
+      },
+      {
+        "pos": 83,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 26,
+        "rule": "rule_007",
+        "reward": -1.0
+      },
+      {
+        "pos": 156,
+        "rule": "rule_028",
+        "reward": -1.0
+      },
+      {
+        "pos": 219,
+        "rule": "rule_017",
+        "reward": -1.0
+      },
+      {
+        "pos": 23,
+        "rule": "rule_007",
+        "reward": -1.0
+      },
+      {
+        "pos": 161,
+        "rule": "rule_004",
+        "reward": -1.0
+      },
+      {
+        "pos": 40,
+        "rule": "rule_020",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 9,
+        "rule": "rule_006",
+        "reward": -1.0
+      },
+      {
+        "pos": 184,
+        "rule": "rule_009",
+        "reward": -1.0
+      },
+      {
+        "pos": 187,
+        "rule": "rule_019",
+        "reward": -1.0
+      },
+      {
+        "pos": 25,
+        "rule": "rule_015",
+        "reward": -1.0
+      },
+      {
+        "pos": 21,
+        "rule": "rule_026",
+        "reward": -1.0
+      },
+      {
+        "pos": 123,
+        "rule": "rule_013",
+        "reward": -1.0
+      },
+      {
+        "pos": 191,
+        "rule": "rule_026",
+        "reward": -1.0
+      },
+      {
+        "pos": 95,
+        "rule": "rule_005",
+        "reward": -1.0
+      },
+      {
+        "pos": 14,
+        "rule": "rule_011",
+        "reward": -1.0
+      },
+      {
+        "pos": 140,
+        "rule": "rule_000",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 63,
+        "rule": "rule_019",
+        "reward": -1.0
+      },
+      {
+        "pos": 193,
+        "rule": "rule_025",
+        "reward": -1.0
+      },
+      {
+        "pos": 207,
+        "rule": "rule_018",
+        "reward": -1.0
+      },
+      {
+        "pos": 130,
+        "rule": "rule_018",
+        "reward": -1.0
+      },
+      {
+        "pos": 7,
+        "rule": "rule_000",
+        "reward": -1.0
+      },
+      {
+        "pos": 70,
+        "rule": "rule_019",
+        "reward": -1.0
+      },
+      {
+        "pos": 215,
+        "rule": "rule_021",
+        "reward": -1.0
+      },
+      {
+        "pos": 194,
+        "rule": "rule_027",
+        "reward": -1.0
+      },
+      {
+        "pos": 107,
+        "rule": "rule_004",
+        "reward": -1.0
+      },
+      {
+        "pos": 76,
+        "rule": "rule_019",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 12,
+        "rule": "rule_005",
+        "reward": -1.0
+      },
+      {
+        "pos": 166,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 16,
+        "rule": "rule_011",
+        "reward": -1.0
+      },
+      {
+        "pos": 156,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 102,
+        "rule": "rule_015",
+        "reward": -1.0
+      },
+      {
+        "pos": 182,
+        "rule": "rule_025",
+        "reward": -1.0
+      },
+      {
+        "pos": 172,
+        "rule": "rule_012",
+        "reward": -1.0
+      },
+      {
+        "pos": 115,
+        "rule": "rule_020",
+        "reward": -1.0
+      },
+      {
+        "pos": 131,
+        "rule": "rule_011",
+        "reward": -1.0
+      },
+      {
+        "pos": 39,
+        "rule": "rule_012",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 119,
+        "rule": "rule_028",
+        "reward": -1.0
+      },
+      {
+        "pos": 114,
+        "rule": "rule_004",
+        "reward": -1.0
+      },
+      {
+        "pos": 42,
+        "rule": "rule_002",
+        "reward": -1.0
+      },
+      {
+        "pos": 181,
+        "rule": "rule_010",
+        "reward": -1.0
+      },
+      {
+        "pos": 23,
+        "rule": "rule_021",
+        "reward": -1.0
+      },
+      {
+        "pos": 34,
+        "rule": "rule_024",
+        "reward": -1.0
+      },
+      {
+        "pos": 30,
+        "rule": "rule_021",
+        "reward": -1.0
+      },
+      {
+        "pos": 189,
+        "rule": "rule_028",
+        "reward": -1.0
+      },
+      {
+        "pos": 187,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 215,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 118,
+        "rule": "rule_010",
+        "reward": -1.0
+      },
+      {
+        "pos": 79,
+        "rule": "rule_021",
+        "reward": -1.0
+      },
+      {
+        "pos": 54,
+        "rule": "rule_026",
+        "reward": -1.0
+      },
+      {
+        "pos": 205,
+        "rule": "rule_002",
+        "reward": -1.0
+      },
+      {
+        "pos": 82,
+        "rule": "rule_016",
+        "reward": -1.0
+      },
+      {
+        "pos": 44,
+        "rule": "rule_026",
+        "reward": -1.0
+      },
+      {
+        "pos": 136,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 222,
+        "rule": "rule_015",
+        "reward": -1.0
+      },
+      {
+        "pos": 142,
+        "rule": "rule_017",
+        "reward": -1.0
+      },
+      {
+        "pos": 182,
+        "rule": "rule_021",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 28,
+        "rule": "rule_002",
+        "reward": -1.0
+      },
+      {
+        "pos": 4,
+        "rule": "rule_017",
+        "reward": -1.0
+      },
+      {
+        "pos": 7,
+        "rule": "rule_002",
+        "reward": -1.0
+      },
+      {
+        "pos": 21,
+        "rule": "rule_024",
+        "reward": -1.0
+      },
+      {
+        "pos": 53,
+        "rule": "rule_006",
+        "reward": -1.0
+      },
+      {
+        "pos": 121,
+        "rule": "rule_000",
+        "reward": -1.0
+      },
+      {
+        "pos": 29,
+        "rule": "rule_009",
+        "reward": -1.0
+      },
+      {
+        "pos": 80,
+        "rule": "rule_010",
+        "reward": -1.0
+      },
+      {
+        "pos": 176,
+        "rule": "rule_003",
+        "reward": -1.0
+      },
+      {
+        "pos": 18,
+        "rule": "rule_006",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 163,
+        "rule": "rule_021",
+        "reward": -1.0
+      },
+      {
+        "pos": 173,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 47,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 208,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 48,
+        "rule": "rule_012",
+        "reward": -1.0
+      },
+      {
+        "pos": 219,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 200,
+        "rule": "rule_021",
+        "reward": -1.0
+      },
+      {
+        "pos": 116,
+        "rule": "rule_003",
+        "reward": -1.0
+      },
+      {
+        "pos": 63,
+        "rule": "rule_023",
+        "reward": -1.0
+      },
+      {
+        "pos": 64,
+        "rule": "rule_005",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 70,
+        "rule": "rule_028",
+        "reward": -1.0
+      },
+      {
+        "pos": 210,
+        "rule": "rule_004",
+        "reward": -1.0
+      },
+      {
+        "pos": 159,
+        "rule": "rule_000",
+        "reward": -1.0
+      },
+      {
+        "pos": 218,
+        "rule": "rule_006",
+        "reward": -1.0
+      },
+      {
+        "pos": 24,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 95,
+        "rule": "rule_011",
+        "reward": -1.0
+      },
+      {
+        "pos": 122,
+        "rule": "rule_005",
+        "reward": -1.0
+      },
+      {
+        "pos": 15,
+        "rule": "rule_010",
+        "reward": -1.0
+      },
+      {
+        "pos": 176,
+        "rule": "rule_005",
+        "reward": -1.0
+      },
+      {
+        "pos": 166,
+        "rule": "rule_024",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 219,
+        "rule": "rule_021",
+        "reward": -1.0
+      },
+      {
+        "pos": 8,
+        "rule": "rule_004",
+        "reward": -1.0
+      },
+      {
+        "pos": 42,
+        "rule": "rule_004",
+        "reward": -1.0
+      },
+      {
+        "pos": 20,
+        "rule": "rule_007",
+        "reward": -1.0
+      },
+      {
+        "pos": 124,
+        "rule": "rule_017",
+        "reward": -1.0
+      },
+      {
+        "pos": 72,
+        "rule": "rule_023",
+        "reward": -1.0
+      },
+      {
+        "pos": 8,
+        "rule": "rule_003",
+        "reward": -1.0
+      },
+      {
+        "pos": 102,
+        "rule": "rule_019",
+        "reward": -1.0
+      },
+      {
+        "pos": 14,
+        "rule": "rule_015",
+        "reward": -1.0
+      },
+      {
+        "pos": 169,
+        "rule": "rule_023",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 42,
+        "rule": "rule_025",
+        "reward": -1.0
+      },
+      {
+        "pos": 94,
+        "rule": "rule_008",
+        "reward": -1.0
+      },
+      {
+        "pos": 67,
+        "rule": "rule_019",
+        "reward": -1.0
+      },
+      {
+        "pos": 76,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 48,
+        "rule": "rule_009",
+        "reward": -1.0
+      },
+      {
+        "pos": 179,
+        "rule": "rule_016",
+        "reward": -1.0
+      },
+      {
+        "pos": 145,
+        "rule": "rule_018",
+        "reward": -1.0
+      },
+      {
+        "pos": 88,
+        "rule": "rule_027",
+        "reward": -1.0
+      },
+      {
+        "pos": 148,
+        "rule": "rule_020",
+        "reward": -1.0
+      },
+      {
+        "pos": 118,
+        "rule": "rule_018",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 132,
+        "rule": "rule_029",
+        "reward": -1.0
+      },
+      {
+        "pos": 94,
+        "rule": "rule_011",
+        "reward": -1.0
+      },
+      {
+        "pos": 154,
+        "rule": "rule_010",
+        "reward": -1.0
+      },
+      {
+        "pos": 217,
+        "rule": "rule_028",
+        "reward": -1.0
+      },
+      {
+        "pos": 53,
+        "rule": "rule_017",
+        "reward": -1.0
+      },
+      {
+        "pos": 192,
+        "rule": "rule_018",
+        "reward": -1.0
+      },
+      {
+        "pos": 31,
+        "rule": "rule_011",
+        "reward": -1.0
+      },
+      {
+        "pos": 80,
+        "rule": "rule_018",
+        "reward": -1.0
+      },
+      {
+        "pos": 25,
+        "rule": "rule_008",
+        "reward": -1.0
+      },
+      {
+        "pos": 45,
+        "rule": "rule_027",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 69,
+        "rule": "rule_009",
+        "reward": -1.0
+      },
+      {
+        "pos": 45,
+        "rule": "rule_025",
+        "reward": -1.0
+      },
+      {
+        "pos": 81,
+        "rule": "rule_000",
+        "reward": -1.0
+      },
+      {
+        "pos": 57,
+        "rule": "rule_013",
+        "reward": -1.0
+      },
+      {
+        "pos": 16,
+        "rule": "rule_019",
+        "reward": -1.0
+      },
+      {
+        "pos": 62,
+        "rule": "rule_010",
+        "reward": -1.0
+      },
+      {
+        "pos": 171,
+        "rule": "rule_024",
+        "reward": -1.0
+      },
+      {
+        "pos": 136,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 159,
+        "rule": "rule_006",
+        "reward": -1.0
+      },
+      {
+        "pos": 20,
+        "rule": "rule_008",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 223,
+        "rule": "rule_014",
+        "reward": -1.0
+      },
+      {
+        "pos": 179,
+        "rule": "rule_029",
+        "reward": -1.0
+      },
+      {
+        "pos": 200,
+        "rule": "rule_027",
+        "reward": -1.0
+      },
+      {
+        "pos": 127,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 100,
+        "rule": "rule_017",
+        "reward": -1.0
+      },
+      {
+        "pos": 153,
+        "rule": "rule_014",
+        "reward": -1.0
+      },
+      {
+        "pos": 200,
+        "rule": "rule_001",
+        "reward": -1.0
+      },
+      {
+        "pos": 110,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 4,
+        "rule": "rule_009",
+        "reward": -1.0
+      },
+      {
+        "pos": 42,
+        "rule": "rule_023",
+        "reward": -1.0
+      }
+    ]
+  ]
+}

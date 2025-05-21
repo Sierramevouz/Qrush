@@ -1,0 +1,2657 @@
+{
+  "qasm": "circuits/ghz3.qasm",
+  "reward_trace": [
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0,
+    -10.0
+  ],
+  "traces": [
+    [
+      {
+        "pos": 220,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 134,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 25,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 121,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 199,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 191,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 69,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 134,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 95,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 140,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 158,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 112,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 15,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 144,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 151,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 135,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 8,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 218,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 148,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 24,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 134,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 41,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 147,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 86,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 97,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 151,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 191,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 164,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 90,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 82,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 95,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 111,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 103,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 45,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 95,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 194,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 109,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 78,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 24,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 9,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 92,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 87,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 69,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 120,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 88,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 202,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 174,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 108,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 114,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 135,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 202,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 83,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 187,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 67,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 45,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 17,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 190,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 145,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 221,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 12,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 163,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 74,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 195,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 17,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 69,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 144,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 201,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 77,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 32,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 131,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 125,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 216,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 174,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 137,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 169,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 170,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 214,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 217,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 171,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 156,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 79,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 25,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 139,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 162,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 2,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 1,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 50,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 24,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 197,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 107,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 50,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 163,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 62,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 22,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 188,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 138,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 36,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 98,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 84,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 138,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 67,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 21,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 207,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 119,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 201,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 86,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 132,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 35,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 71,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 97,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 212,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 58,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 198,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 144,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 41,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 120,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 54,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 119,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 91,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 193,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 147,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 122,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 184,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 174,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 54,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 76,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 14,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 14,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 26,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 184,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 32,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 65,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 2,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 103,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 46,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 0,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 56,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 220,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 153,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 7,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 46,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 120,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 52,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 106,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 137,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 194,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 109,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 15,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 63,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 190,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 176,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 2,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 100,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 115,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 209,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 176,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 198,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 17,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 97,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 96,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 134,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 8,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 65,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 202,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 26,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 58,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 15,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 219,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 107,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 178,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 25,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 120,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 64,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 49,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 98,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 187,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 119,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 223,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 148,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 14,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 178,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 189,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 145,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 175,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 0,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 114,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 62,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 65,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 115,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 113,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 139,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 168,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 76,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 152,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 117,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 147,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 0,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 101,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 115,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 189,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 124,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 39,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 1,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 63,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 93,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 220,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 45,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 186,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 141,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 206,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 78,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 93,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 9,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 160,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 41,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 54,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 81,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 19,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 148,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 207,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 32,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 142,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 62,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 181,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 164,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 199,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 51,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 198,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 222,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 143,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 23,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 213,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 81,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 28,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 152,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 164,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 115,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 171,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 87,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 65,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 154,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 26,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 199,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 29,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 24,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 172,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 126,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 164,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 133,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 146,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 47,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 195,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 152,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 175,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 152,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 213,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 211,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 20,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 154,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 197,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 43,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 58,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 185,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 172,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 95,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 77,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 209,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 126,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 136,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 177,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 57,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 69,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 217,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 108,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 198,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 65,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 87,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 9,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 55,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 206,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 57,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 97,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 47,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 144,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 101,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 195,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 196,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 196,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 139,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 164,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 162,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 164,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 30,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 23,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 200,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 159,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 86,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 51,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 85,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 21,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 79,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 161,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 181,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 10,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 85,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 138,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 139,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 13,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 137,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 7,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 79,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 207,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 81,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 172,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 196,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 61,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 155,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 2,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 34,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 89,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 219,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 54,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 166,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 184,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 70,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 147,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 214,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 109,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 15,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 130,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 34,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 60,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 31,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 4,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 50,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 54,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 69,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 100,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 121,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 109,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 209,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 115,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 158,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 102,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 220,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 16,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 112,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 14,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 197,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 82,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 130,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 33,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 171,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 79,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 126,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 102,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 116,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 209,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 145,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 146,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 180,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 161,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 167,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 27,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 44,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 170,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 159,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 92,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 125,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 99,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 124,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 174,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 39,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 70,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 91,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 222,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 191,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 10,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 178,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 150,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 77,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 109,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 80,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 96,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 198,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 81,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 42,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 13,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 47,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 11,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 58,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 128,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 102,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 184,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 157,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 218,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 173,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 140,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 20,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 139,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 68,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 141,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 61,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 4,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 28,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 126,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 186,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 161,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 222,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 150,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 159,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 137,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 113,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 33,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 170,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 111,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 25,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 71,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 207,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 17,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 19,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 149,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 192,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 6,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 10,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 181,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 173,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 102,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 143,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 26,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 58,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 10,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 29,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 209,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 108,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 14,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 114,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 117,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 94,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 219,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 215,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 157,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 2,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 118,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 114,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 13,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 50,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 144,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 185,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 194,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 10,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 188,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 172,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 177,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 188,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 33,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 89,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 75,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 66,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 30,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 61,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 216,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 124,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 151,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 138,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 190,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 58,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 146,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 193,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 72,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 147,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 152,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 139,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 8,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 54,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 203,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 192,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 132,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 138,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 17,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 108,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 86,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 199,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 224,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 80,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 147,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 221,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 29,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 220,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 98,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      }
+    ],
+    [
+      {
+        "pos": 118,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 129,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 7,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 131,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 171,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 67,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 205,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 155,
+        "rule": "cxcx_cancel",
+        "reward": -1.0
+      },
+      {
+        "pos": 127,
+        "rule": "swap_decompose",
+        "reward": -1.0
+      },
+      {
+        "pos": 65,
+        "rule": "hh_cancel",
+        "reward": -1.0
+      }
+    ]
+  ]
+}

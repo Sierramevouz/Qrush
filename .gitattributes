@@ -1,0 +1,6 @@
+gnn_discriminator/high_score_rules.jsonl filter=lfs diff=lfs merge=lfs -text
+reswite_rule_set/Nam_6_4_complete_ECC_set.json filter=lfs diff=lfs merge=lfs -text
+gnn_discriminator/converted_ecc_rules_with_labels.jsonl filter=lfs diff=lfs merge=lfs -text
+reswite_rule_set/Nam_7_3_complete_ECC_set.json filter=lfs diff=lfs merge=lfs -text
+gnn_discriminator/converted_ecc_rules_with_negatives.jsonl filter=lfs diff=lfs merge=lfs -text
+converted_ecc_rules.jsonl filter=lfs diff=lfs merge=lfs -text

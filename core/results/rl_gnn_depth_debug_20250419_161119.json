@@ -1,0 +1,100 @@
+{
+  "reward_trace": [
+    -10.0
+  ],
+  "traces": [
+    [
+      {
+        "pos": 184,
+        "rule": "rule_018",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 201,
+        "rule": "rule_029",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 65,
+        "rule": "swap_decompose",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 92,
+        "rule": "rule_020",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 183,
+        "rule": "rule_024",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 162,
+        "rule": "hh_cancel",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 275,
+        "rule": "rule_000",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 130,
+        "rule": "rule_028",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 332,
+        "rule": "rule_018",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      },
+      {
+        "pos": 136,
+        "rule": "rule_022",
+        "gnn_reward": -1.0,
+        "depth_reward": 0,
+        "total": -1.0,
+        "depth_before": null,
+        "depth_after": null
+      }
+    ]
+  ],
+  "qasm_path": "../circuits/gf2^5_mult.qasm"
+}

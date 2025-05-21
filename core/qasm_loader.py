@@ -13,3 +13,4 @@ def from_qiskit_to_gate_list(qc: QuantumCircuit):
 def load_qasm_file_as_gate_list(path):
     qc = QuantumCircuit.from_qasm_file(path)
     return from_qiskit_to_gate_list(qc)
+load_qasm_file = load_qasm_file_as_gate_list  # ✅ 提供别名，保持兼容
